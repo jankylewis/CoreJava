@@ -1,5 +1,5 @@
 Before jumping into LeetCode, or HackerRank, try solving these questions without checking the solutions 👇👇👇
-📌 Array Problems:
+📌 Array problems:
 ✅ Find the frequency of each element in the array
 ✅ Print the duplicate elements of an array
 ✅ Print the elements of an array in reverse order
@@ -11,7 +11,7 @@ Before jumping into LeetCode, or HackerRank, try solving these questions without
 ✅ Find the second smallest number in an array
 ✅ Print odd and even numbers from an array
 
-📌 String Problems:
+📌 String problems:
 ✅ Remove all the white spaces in a string
 ✅ Write a code to prove that String objects are immutable
 ✅ Count the number of words in a string
@@ -21,7 +21,7 @@ Before jumping into LeetCode, or HackerRank, try solving these questions without
 ✅ Print the first letter of each word in a string
 ✅ Given a string s, find the length of the longest substring without repeating characters
 
-📌 Number Problems:
+📌 Number problems:
 ✅ Check if a number is prime
 ✅ Find the greatest common divisor (GCD) of two numbers
 ✅ Check if a number is a perfect square
